@@ -1,0 +1,12 @@
+# PyCity Schools Analysis
+
+**Summary:**
+
+This PyCitySchools district report provides overall metrics of student and school counts; key indicators of student success and school spending; and a comparison of how school size and funding factor into measureable student success metrics. It provides additional breakdowns by schools type (district or charter), per school, per grade level, and per subject area (reading and math).  
+
+**Conclusions:**
+  
+* Reading scores outperformed math scores.
+* Overall performance remains strong.
+
+**Insights:** 
