@@ -4,9 +4,16 @@
 
 This PyCitySchools district report provides overall metrics of student and school counts; key indicators of student success and school spending; and a comparison of how school size and funding factor into measureable student success metrics. It provides additional breakdowns by schools type (district or charter), per school, per grade level, and per subject area (reading and math).  
 
-**Conclusions:**
-  
-* Reading scores outperformed math scores.
-* Overall performance remains strong.
+**Conclusions / Insights:** 
 
-**Insights:** 
+* Large Schools (2,000 - 5,0000 students) have a much lower overall passing rate (58.2%) than Medium Schools (1,000 - 2,000 students, 90.6%) and Small Schools (<1,000 students, 89.8%).
+* Charter Schools significantly outperform District Schools in overall passing rate (90% to 53.6%).
+* Another standout metric is that schools with lower spending per capita (less than "$585" per student) outperformed the highest spending per capita schools ("$645" to "$685") significantly in terms of overall passing rates by 90.3% to 53%.
+
+While students performed relatively well in individual subjects (74% passing in math and 84% in reading), the percentage of students passing both subjects simultaneously is significantly lower at 65%. This indicates that many students struggle to excel in both math and reading together, even if they can perform well in one subject. 
+
+*Key Insight*
+
+The gap suggests that targeted interventions are needed to help students who are struggling in one of the two subjects. By addressing specific areas of difficulty, the overall percentage of students passing both math and reading could improve.
+
+---
