@@ -2,8 +2,6 @@
 ## Author: Stan Usovicz 
 ## Date: December 17, 2024 
 
-### Description: CU Data Analysis Module 4 Challenge Jupyter / Pandas
-
 **Features**
 ---
 
